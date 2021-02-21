@@ -1,0 +1,7 @@
+.card img{
+    border-radius: 50%;
+}
+.card-footer{
+    background-color: #fff;
+    text-align: left;
+}
