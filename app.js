@@ -27,7 +27,7 @@ const displayCountries = users => {
         const countryInfo = `
         <div class="col">
                     <div class="card">
-                    <img class="w-75 py-2 mx-auto" src="${user.picture.medium}" alt="${user.name}">
+                    <img class="w-75 py-2 mx-auto" src="${user.picture.large}" alt="${user.name}">
                     <div class="card-body">
                         <h2 class="card-title">${user.name.first} ${user.name.last}</h2>
                     </div>
